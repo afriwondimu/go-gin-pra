@@ -32,5 +32,7 @@ go install github.com/githubnemo/CompileDaemon
 ```
 CompileDaemon -command="./go-gin-pra"
 ```
-
-
+# to Migrate model
+```
+go run migrate/migrate.go
+```
